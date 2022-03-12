@@ -4,6 +4,9 @@
 - :books: I am a third year Engineering student at the University of Waterloo, and have taken courses such as Data Structures & Algorithms, Databases & Sofware Design, Linear Algebra, and Advanced Statistics.
 - 📫 You can reach out to me at: ma23pate@uwaterloo.ca
 
+<a href="https://www.linkedin.com/in/maanp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@zeelp2002-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:ma23pate@uwaterloo.ca"><img alt="Email" src="https://img.shields.io/badge/Email-pate1210@mylaurier.ca-blue?style=flat&logo=gmail"></a>
+
 Have a nice day!! :grinning:
 <!---
 maan-patel/maan-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
