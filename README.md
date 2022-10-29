@@ -7,9 +7,9 @@
 <a href="https://www.linkedin.com/in/maanp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@maanp-blue?style=flat&logo=linkedin"></a>
 
 
-<img style="align-center" src="https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=maan-patel&layout=compact&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545">
+<!-- <img style="align-center" src="https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=maan-patel&layout=compact&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545">
 
-
+ -->
 Have a nice day!! :grinning:
 <!---
 maan-patel/maan-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
