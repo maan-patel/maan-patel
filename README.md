@@ -3,6 +3,8 @@
 - 🌱 I can code in JavaScript, Python, Java, C#, R & Ruby using frameworks/ libraries such as React, Express, Django, Pandas, Mathplotlib, Numpy & more. 
 - :books: I am a third year Engineering student at the University of Waterloo, and have taken courses such as Data Structures & Algorithms, Databases & Sofware Design, Introduction to Machine Learning, Search Engines, Linear Algebra, and Advanced Statistics.
 - 📫 You can reach out to me at: ma23pate@uwaterloo.ca
+- 🌐 [maan-patel.github.io](https://maan-patel.github.io/)
+
 
 <a href="https://www.linkedin.com/in/maanp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@maanp-blue?style=flat&logo=linkedin"></a>
 
