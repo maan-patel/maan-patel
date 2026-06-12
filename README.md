@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maan Patel
 - 👀 I Sr. Software Engineer at Tesla
 - 🌱 I can code in JavaScript, Python, Java, C#, R & Ruby using frameworks/ libraries such as React, Express, Django, Pandas, Mathplotlib, Numpy & more. 
-- :books: I am a third year Engineering student at the University of Waterloo, and have taken courses such as Data Structures & Algorithms, Databases & Sofware Design, Introduction to Machine Learning, Search Engines, Linear Algebra, and Advanced Statistics.
+- :books: I graduated as an Engineering student at the University of Waterloo, and have taken courses such as Data Structures & Algorithms, Databases & Sofware Design, Introduction to Machine Learning, Search Engines, Linear Algebra, and Advanced Statistics.
 - 📫 You can reach out to me at: patel.maan14@gmail.com
 - 🌐 [maan-patel.github.io](https://maan-patel.github.io/)
 
